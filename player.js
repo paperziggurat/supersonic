@@ -12,7 +12,7 @@ var reqload  = {
         f: 'json'
 };
 
-var host = '192.168.2.101'; //This is just the IP at which my stream was located.  Will differ until static is set up.
+var host = ''; //This is just the IP at which my stream was located.  Will differ until static is set up.
 var artists = [];
 
 var screen = blessed.screen();
