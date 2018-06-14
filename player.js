@@ -65,7 +65,6 @@ function getMusicDirectory(){
     });
 }
 
-
 function populateIndexes(){
     request({
         method: 'POST',
@@ -112,7 +111,3 @@ function puts(error, stdout, stderr){
 }
 
 main();
-
-
-
-
