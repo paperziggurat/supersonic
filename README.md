@@ -1,4 +1,4 @@
 supersonic
 ==========
 
-a CLI music player interfacing the SubSonic stream service
+stream music from subsonic api in the terminal
